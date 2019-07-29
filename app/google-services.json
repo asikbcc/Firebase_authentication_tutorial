@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696657327872",
+    "firebase_url": "https://example-4437a.firebaseio.com",
+    "project_id": "example-4437a",
+    "storage_bucket": "example-4437a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696657327872:android:81a26cb8aefe0e23",
+        "android_client_info": {
+          "package_name": "com.nascenia.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696657327872-vh3suo1fa8j5vlfqreurh6gpc65p63a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nascenia.blog",
+            "certificate_hash": "821c57de3277a8ce0939dd7b512995af06e76b66"
+          }
+        },
+        {
+          "client_id": "696657327872-o5debs12se0d8srsauu1hfh8731habrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBro5hOt1CDH_dSVolP-iLylEfUDEOFeLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696657327872-o5debs12se0d8srsauu1hfh8731habrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
